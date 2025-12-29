@@ -13,9 +13,9 @@ A Python script to automate sending WhatsApp messages to a list of numbers from 
 
 1. Clone this repository:
    ```bash
-   git clone [https://github.com/AlenSarangSatheesh/whatsapp-bulk-sender.git](https://github.com/AlenSarangSatheesh/whatsapp-bulk-sender.git)
+   git clone https://github.com/AlenSarangSatheesh/whatsapp-bulk-sender.git
    cd whatsapp-bulk-sender
-
+   
 2. Install dependencies:
 
    pip install -r requirements.txt
