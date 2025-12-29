@@ -1,0 +1,15 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Data files (IMPORTANT: Keeps your numbers private)
+*.xlsx
+*.xls
+*.csv
+
+# Logs and results
+*.txt
+*.log
+
+# Selenium profile folder
+whatsapp_selenium_profile/
